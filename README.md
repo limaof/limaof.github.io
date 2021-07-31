@@ -10,9 +10,8 @@ Made By [Krita](https://www.krita.org)
 ![auto001](https://user-images.githubusercontent.com/88214445/127742194-2c34486d-995c-4e08-a873-f8c9a199db06.jpg)
 
 
-<p align="center"> ### Para saber mais sobre como fazer quadrinhos no krita, assita o video abaixo:</p>
+### Para saber mais sobre como fazer quadrinhos no krita, assita o video abaixo:
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 
 
 
