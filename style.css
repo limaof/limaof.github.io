@@ -8,8 +8,7 @@
 }
 
 #menu-h{
-    background-color: rgb(250, 240, 230);
-    border-radius: 30px
+    background-color: white;
 }
 
 #menu-h ul {
@@ -32,12 +31,14 @@
 
 #menu-h ul li a:hover {
     background-color: rgb(230, 230, 230);
+    border-radius: 30px;
 }
 
 #menu-h ul li:last-child a {
     float: right;
     background-color: rgb(230, 230, 230);
     transition: background .4s;
+    border-radius: 30px;
 }
 .video-container {
 	position: relative;
