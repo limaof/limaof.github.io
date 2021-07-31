@@ -36,6 +36,7 @@
 #menu-h ul li:last-child a {
     float: left;
     background-color: rgb(230, 230, 230);
+    transition: background .4s;
 }
 .video-container {
 	position: relative;
