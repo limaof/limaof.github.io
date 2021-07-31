@@ -5,18 +5,13 @@
 <nav id="menu-h">
         <ul>
             <li>
-                <a href="https://satellasoft.com">
+                <a href="https://https://www.limaof.github.io">
                     Home
                 </a>
             </li>
 
-            <li><a href="https://academy.satellasoft.com">Sobre</a></li>
-            
-            <li><a href="#">Quem Somos</a></li>
-            
-            <li><a href="#">Contato</a></li>
-            
-            <li><a href="#">Entrar</a></li>
+            <li><a href="https://www.limaof.github.io/blog/">Blog</a></li>
+           
         </ul>
     </nav>
 
