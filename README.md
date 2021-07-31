@@ -1,19 +1,15 @@
 <head>
         <link rel="stylesheet" href="style.css">
+         <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Horizontal</title>
 </Head>
 
 <nav id="menu-h">
         <ul>
-            <li>
-                <a href="https://limaof.github.io">
-                        <b>Home</b>
-                </a>
-            </li>
+                <li><a href="https://limaof.github.io"><b>Home</b></a></li>
 
-            <li><a href="https://limaof.github.io/blog/">
-                    <b>Blog</b>
-                    </a>
-            </li>
+            <li><a href="https://limaof.github.io/blog/"><b>Blog</b></a></li>
            
         </ul>
     </nav>
