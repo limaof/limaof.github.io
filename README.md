@@ -5,12 +5,12 @@
 <nav id="menu-h">
         <ul>
             <li>
-                <a href="https://https://www.limaof.github.io">
-                    ** Home**
+                <a href="https://limaof.github.io">
+                        <b>Home</b>
                 </a>
             </li>
 
-            <li><a href="https://www.limaof.github.io/blog/">
+            <li><a href="https://limaof.github.io/blog/">
                     <b>Blog</b>
                     </a>
             </li>
