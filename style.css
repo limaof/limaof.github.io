@@ -27,13 +27,21 @@
     display: inline-block;
     text-decoration: none;
     transition: background .4s;
+    border-radius: 30px;
 }
 
 #menu-h ul li a:hover {
     background-color: rgb(230, 230, 230);
     border-radius: 30px;
 }
-
+#menu-h ul li:last-child a {
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+    border-radius: 30px;
+}	
 #menu-h ul li:last-child a {
     float: right;
     background-color: rgb(230, 230, 230);
