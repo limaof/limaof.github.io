@@ -2,7 +2,7 @@
         <link rel="stylesheet" href="style.css">
          
 </Head>
-[**HOME**](https://limaof.github.io)       [BLOG](https://limaof.github.io/blog/)
+[**HOME**](https://limaof.github.io)       [**BLOG**](https://limaof.github.io/blog/)
 
 
 ## Leia a HQ semanalmente
