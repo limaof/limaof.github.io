@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu Horizontal</title>
 </Head>
-
+[**HOME**](https://limaof.github.io)[BLOG](https://limaof.github.io/blog/)
 <nav align="left" id="menu-h">
         <ul>
                 <li><a href="https://limaof.github.io"><b>Home</b></a></li>
