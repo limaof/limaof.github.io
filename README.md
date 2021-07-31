@@ -13,3 +13,21 @@ Made By [Krita](https://www.krita.org)
 
 A web comic made by Coutinho using Krita.
 Licensed by CC BY-NC-ND 4.0  
+
+
+.wise-iframe-wrapper {
+    position: relative;
+    padding-bottom: 56.10%;
+    height: 0;
+    overflow: hidden;
+}
+ 
+.wise-iframe-wrapper iframe,
+.wise-iframe-wrapper object,
+.wise-iframe-wrapper embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
