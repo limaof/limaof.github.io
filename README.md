@@ -5,7 +5,7 @@
     <title>Menu Horizontal</title>
 </Head>
 
-<nav id="menu-h">
+<nav align="left" id="menu-h">
         <ul>
                 <li><a href="https://limaof.github.io"><b>Home</b></a></li>
 
