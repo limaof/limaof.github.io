@@ -17,21 +17,6 @@ Made By [Krita](https://www.krita.org)
     </div>
 </div>
 
-.panel {
-    background-color: red;
-    width: 100%;
-    padding-top: calc((3 / 4) * 100%);
-    position: relative;
-}
-
-.content {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-}
-
 A web comic made by Coutinho using Krita.
 Licensed by CC BY-NC-ND 4.0  
 
