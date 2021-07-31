@@ -14,6 +14,7 @@ Made By [Krita](https://www.krita.org)
 
 
 ### Para saber mais sobre como fazer quadrinhos no krita, assita o video abaixo:
+*David Revoy é um artista exemplo para quem trabalha com softwares opensource. Além de disponibilizar o seu trabalho, ele também tem um blog com muitos conteúdos extremamente úteis para quem quer aprender mais sobre como desenhar, editorar e publicar seus quadrinhos online. Ele é, de fato, uma grande inspiração para todos os projetos que me dedico atualmente. 
 <div class="container">
     <div class="panel">
         <div class="content"><iframe width="560" height="315" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
