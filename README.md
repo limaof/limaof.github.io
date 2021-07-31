@@ -1,7 +1,9 @@
-# Limão
-<meta charset="utf-8" name="viewport" 
+<head><meta charset="utf-8" name="viewport" 
         content= "width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
+</Head>
+# Limão
+
 ## Leia a HQ semanalmente
 Made By [Krita](https://www.krita.org)
 
