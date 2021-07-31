@@ -8,7 +8,7 @@
 }
 
 #menu-h{
-    background-color: red;
+    background-color: white;
 }
 
 #menu-h ul {
@@ -30,7 +30,7 @@
 }
 
 #menu-h ul li a:hover {
-    background-color: rgb(24, 139, 233);
+    background-color: rgb(139, 139, 139);
 }
 
 #menu-h ul li:last-child a {
