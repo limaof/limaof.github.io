@@ -1,7 +1,21 @@
 # Limão
 <meta charset="utf-8" name="viewport" 
         content= "width=device-width, initial-scale=1.0">
-        
+        <style>
+        .panel {
+    background-color: red;
+    width: 100%;
+    padding-top: calc((3 / 4) * 100%);
+    position: relative;
+}
+       .content {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+        </style>
 ## Leia a HQ semanalmente
 Made By [Krita](https://www.krita.org)
 
