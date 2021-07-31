@@ -1,7 +1,7 @@
 .panel {
     background-color: red;
     width: 100%;
-    padding-top: calc((3 / 4) * 100%);
+    padding-top: calc((16 / 9) * 100%);
     position: relative;
 }
 .content {
