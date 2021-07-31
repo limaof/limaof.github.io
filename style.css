@@ -1,38 +1,3 @@
-#menu-h{
-    background-color: white;
-    justify-content: left;	
-}
-
-#menu-h ul {
-    max-width: 200px;
-    list-style: none;
-    padding: 0;
-}
-
-#menu-h ul li {
-    display: inline;
-}
-
-#menu-h ul li a {
-    color: black;
-    padding: 20px;
-    display: inline-block;
-    text-decoration: none;
-    
-}
-
-#menu-h ul li a:hover {
-    background-color: white);
-   
-}
-	
-#menu-h ul li:last-child a {
-    float: right;
-    background-color: white);
-   
-    
-}
-
 .video-container {
 	position: relative;
 	padding-bottom: 55%;
