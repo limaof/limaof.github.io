@@ -4,7 +4,7 @@
 </Head>
 
 ## Leia a HQ semanalmente
-Made By [Krita](https://www.krita.org)
+Feito com [Krita](https://www.krita.org)
 
 [Contato](mailto: coutinhof@tutanota.com) 
 
