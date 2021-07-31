@@ -1,21 +1,7 @@
 # Limão
 <meta charset="utf-8" name="viewport" 
         content= "width=device-width, initial-scale=1.0">
-        <style>
-            .gfg {
-                font-size:40px;
-                font-weight:bold;
-                color:green;
-                text-align:center;
-            }
-            .geeks {
-                font-size:17px;
-                text-align:center;
-            }
-            p {
-                text-align:justify;
-            }
-        </style>
+        
 ## Leia a HQ semanalmente
 Made By [Krita](https://www.krita.org)
 
@@ -23,7 +9,7 @@ Made By [Krita](https://www.krita.org)
 ![0002-b](https://user-images.githubusercontent.com/88214445/127722437-d45d8c42-7cd7-4582-aac5-709b623e7fab.jpg)
 
 ### Para saber mais sobre como fazer quadrinhos no krita, assita o video abaixo:
-<div> class="viewport"><iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
