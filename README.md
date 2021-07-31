@@ -17,15 +17,7 @@ Made By [Krita](https://www.krita.org)
 <p text-align="justify"> *David Revoy é um artista exemplo para quem trabalha com softwares opensource. Além de disponibilizar o seu trabalho, ele também tem um blog com muitos conteúdos extremamente úteis para quem quer aprender mais sobre como desenhar, editorar e publicar seus quadrinhos online. Ele é, de fato, uma grande inspiração para todos os projetos que me dedico atualmente. </p> 
 
 <div class="video-container">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/lb6hG-lajbc" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-sobre" style="text-align: center;">
-<div class="container">
-    <div class="panel">
-        <div class="content"><iframe width="560" height="315" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-    </div>
-</div>
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/A7olKdIEtNQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 A web comic made by Coutinho using Krita.
