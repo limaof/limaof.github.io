@@ -8,7 +8,7 @@
 }
 
 #menu-h{
-    background-color: rgb(37, 37, 39);
+    background-color: white;
 }
 
 #menu-h ul {
@@ -35,7 +35,7 @@
 
 #menu-h ul li:last-child a {
     float: right;
-    background-color: rgb(24, 139, 233);
+    background-color: white;
 }
 .video-container {
 	position: relative;
