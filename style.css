@@ -9,6 +9,7 @@
 
 #menu-h{
     background-color: white;
+    border-radius: 30px
 }
 
 #menu-h ul {
@@ -34,7 +35,7 @@
 }
 
 #menu-h ul li:last-child a {
-    float: left;
+    float: right;
     background-color: rgb(230, 230, 230);
     transition: background .4s;
 }
