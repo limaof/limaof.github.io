@@ -9,6 +9,7 @@
 
 #menu-h{
     background-color: white;
+    justify-content: left;	
 }
 
 #menu-h ul {
