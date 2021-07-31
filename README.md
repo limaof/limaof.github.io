@@ -16,7 +16,7 @@ Made By [Krita](https://www.krita.org)
 ### Para saber mais sobre como fazer quadrinhos no krita, assita o video abaixo:
 <div class="container">
     <div class="panel">
-        <div class="content"><iframe width="relative" height="relative" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="content"><iframe width="1920" height="1080" src="https://www.youtube.com/embed/A7olKdIEtNQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     </div>
 </div>
 
