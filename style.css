@@ -3,7 +3,7 @@
 * {
     margin: 0 auto;
     padding: 0;
-    box-sizing: border-box;
+    
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -35,7 +35,7 @@
 
 #menu-h ul li:last-child a {
     float: right;
-    background-color: white;
+    background-color: rgb(230, 230, 230);
 }
 .video-container {
 	position: relative;
