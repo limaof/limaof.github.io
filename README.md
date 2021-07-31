@@ -6,11 +6,14 @@
         <ul>
             <li>
                 <a href="https://https://www.limaof.github.io">
-                    Home
+                    ** Home**
                 </a>
             </li>
 
-            <li><a href="https://www.limaof.github.io/blog/">Blog</a></li>
+            <li><a href="https://www.limaof.github.io/blog/">
+                    <b>Blog</b>
+                    </a>
+            </li>
            
         </ul>
     </nav>
