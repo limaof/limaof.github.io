@@ -34,7 +34,7 @@
 }
 
 #menu-h ul li:last-child a {
-    float: right;
+    float: left;
     background-color: rgb(230, 230, 230);
 }
 .video-container {
