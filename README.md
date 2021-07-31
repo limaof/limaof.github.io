@@ -13,5 +13,5 @@ Feito com [Krita](https://www.krita.org)
 ![auto001](https://user-images.githubusercontent.com/88214445/127742194-2c34486d-995c-4e08-a873-f8c9a199db06.jpg)
 
 
-**Limão é uma webcomic de Coutinho feita no Krita licenciada em CC BY-NC-ND 4.0**  
+<p Align="center"> <b>Limão é uma webcomic de Coutinho feita no Krita licenciada em CC BY-NC-ND 4.0</b></p>  
 
