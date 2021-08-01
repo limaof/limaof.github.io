@@ -1,9 +1,9 @@
 <head>
         <link rel="stylesheet" href="style.css">
-        {% include head.html %}
-      
+        
 </Head>
 <body>
+        <link rel="footer" hre="footer.html">
 [**BLOG**](https://limaof.github.io/blog/)
 
 
