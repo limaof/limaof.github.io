@@ -1,5 +1,7 @@
 .header {
-  display: none;
+	background: $color-white;
+	padding: 3rem 0;
+  	display: none;
 }
 .video-container {
 	position: relative;
