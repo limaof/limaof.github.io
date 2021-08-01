@@ -3,7 +3,7 @@
         
 </Head>
 <body>
-        <link rel="footer" hre="footer.html">
+        
 [**BLOG**](https://limaof.github.io/blog/)
 
 
@@ -18,5 +18,4 @@ Feito com [Krita](https://www.krita.org)
 
 <p Align="center"> <b>Limão é uma webcomic de Coutinho feita no Krita licenciada em CC BY-NC-ND 4.0</b></p>  
 
-<!--#include virtual="/footer.html" -->
 </body>
