@@ -4,13 +4,11 @@
 <hr size="12" width="100%" align="center" color="black">
 
 ## HQ atualizada semanalmente, às terças
-Feito com [Krita](https://www.krita.org)
+Feito com [Krita](https://www.krita.org) <a href="https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Krita_Painting</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![limao-01](https://user-images.githubusercontent.com/88214445/127747664-2624cdd1-5afd-48de-b135-af7addc53f4c.jpg)
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
 ![limao-03](https://user-images.githubusercontent.com/88214445/127747668-34830e93-6184-42f6-8427-da43b61c2c6c.jpg)
-
-<a class="twitter-timeline" href="https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw">Tweets by Krita_Painting</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io"><b>Próximo</b></a></div>
 
