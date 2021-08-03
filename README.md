@@ -10,6 +10,8 @@ Feito com [Krita](https://www.krita.org)
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
 ![limao-03](https://user-images.githubusercontent.com/88214445/127747668-34830e93-6184-42f6-8427-da43b61c2c6c.jpg)
 
+<a class="twitter-timeline" href="https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw">Tweets by Krita_Painting</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io"><b>Próximo</b></a></div>
 
 <hr size="12" width="100%" align="center" color="black">
