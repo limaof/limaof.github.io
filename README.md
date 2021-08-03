@@ -1,6 +1,6 @@
 
         
-<div style="text-align: right"><a href="https://limaof.github.io/blog/"><h3><b>Próximo</b></h3></a></div>
+<div style="text-align: right"><a href="https://limaof.github.io/blog/"><h3><b>BLOG</b></h3></a></div>
 
 
 
