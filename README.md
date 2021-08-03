@@ -1,10 +1,9 @@
 
         
 <div style="text-align: right"><a href="https://limaof.github.io/blog/"><h3><b>BLOG</b></h3></a></div>
+<hr size="12" width="100%" align="center" color="black">
 
-
-
-## Leia a HQ semanalmente
+## HQ atualizada semanalmente, às terças
 Feito com [Krita](https://www.krita.org)
 
 ![limao-01](https://user-images.githubusercontent.com/88214445/127747664-2624cdd1-5afd-48de-b135-af7addc53f4c.jpg)
