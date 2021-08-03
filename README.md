@@ -1,6 +1,7 @@
 
         
-[**BLOG**](https://limaof.github.io/blog/)
+<div style="text-align: right"><a href="https://limaof.github.io/blog/"><b>Próximo</b></a></div>
+
 
 
 ## Leia a HQ semanalmente
