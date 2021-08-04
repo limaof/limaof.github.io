@@ -4,8 +4,6 @@
 <hr size="12" width="100%" align="center" color="black">
 
 ### HQ atualizada semanalmente, às terças
-<img alt="krita logo" style="border-width:0" src="https://krita.org/wp-content/themes/krita-org-theme/images/krita-logo.png?v2021" />
-**Feito com [Krita](https://www.krita.org)** 
 
 ![limao-01](https://user-images.githubusercontent.com/88214445/127747664-2624cdd1-5afd-48de-b135-af7addc53f4c.jpg)
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
