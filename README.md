@@ -12,8 +12,8 @@ Feito com [Krita](https://www.krita.org)
 ![auto002_2](https://user-images.githubusercontent.com/88214445/128207102-cb57bd1a-5721-48d8-bf21-21fbac111572.jpg)
 
 <div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io"><b>Próximo</b></a></div>
-<div style="text-align: center"><p Align="center"> <b>Limão é uma webcomic feita no Krita licenciada em CC BY-NC-ND 4.0</b></p>  
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.</div>
+<div style="text-align: center"><p Align="center"> <b>Limão é uma webcomic feita no Krita.</b></p>  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><b>Esta obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</b></a>.</div>
 
 
 <hr size="12" width="100%" align="center" color="black">
