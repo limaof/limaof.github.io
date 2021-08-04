@@ -1,6 +1,6 @@
 <title> Limão, uma webcomic </title>
 <link rel="shortcut icon" type="image/jpg" href="https://github.com/limaof/limaof.github.io/blob/6aaaf1f37528f61c19ffce4473e7bec26bcb1b72/favicon.jpeg"/>
-...
+
 
 <hr size="12" width="100%" align="center" color="black">        
 <div style="text-align: left"><a href="https://limaof.github.io/blog/"><h3><b>BLOG</b></h3></a></div>
