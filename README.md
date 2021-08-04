@@ -1,5 +1,5 @@
 <title> Limão, uma webcomic </title>
-<link rel="shortcut icon" type="image/jpg" href="https://github.com/limaof/limaof.github.io/blob/6aaaf1f37528f61c19ffce4473e7bec26bcb1b72/favicon.jpg"/>
+<link rel="shortcut icon" type="image/jpeg" href="https://github.com/limaof/limaof.github.io/blob/6aaaf1f37528f61c19ffce4473e7bec26bcb1b72/favicon.jpeg"/>
 
 
 
