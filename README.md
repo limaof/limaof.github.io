@@ -14,6 +14,7 @@
 ![limao-03](https://user-images.githubusercontent.com/88214445/127747668-34830e93-6184-42f6-8427-da43b61c2c6c.jpg)
 ![limao-04](https://user-images.githubusercontent.com/88214445/128375565-ce869554-1648-4388-af64-ed664687fc00.jpg)
 ![auto003](https://user-images.githubusercontent.com/88214445/128884350-e0d33b5c-67fa-4dff-bed9-ed0cf4dfac5f.jpg)
+ <div style="text-align: right"><b>Continua...</b></a></div>
 
 <div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io"><b>Próximo</b></a></div>
 <div style="text-align: center"><p Align="center"> <b>Limão é uma webcomic feita no Krita.</b></p>  
