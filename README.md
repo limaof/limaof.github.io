@@ -1,14 +1,3 @@
-<title> Limão, uma webcomic </title>
-<link rel="shortcut icon" type="image/jpeg" href="https://github.com/limaof/limaof.github.io/blob/6aaaf1f37528f61c19ffce4473e7bec26bcb1b72/favicon.jpeg"/>
-
-
-
-<hr size="12" width="100%" align="center" color="black">        
-<div style="text-align: left"><a href="https://limaof.github.io/blog/"><h3><b>BLOG</b></h3></a></div>
-<hr size="12" width="100%" align="center" color="black">
-
-### HQ atualizada semanalmente, às terças
-
 ![limao-01](https://user-images.githubusercontent.com/88214445/127747664-2624cdd1-5afd-48de-b135-af7addc53f4c.jpg)
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
 ![limao-03](https://user-images.githubusercontent.com/88214445/129053155-93836fae-37fe-4e37-b678-3f3a79ae89e9.jpg)
