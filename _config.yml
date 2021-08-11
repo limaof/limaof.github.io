@@ -1,5 +1,5 @@
 title: Limão HQ
 description: Página nova às terças
-header: "/style.css" 
+header: "./style.css" 
 show_downloads: false
 theme: jekyll-theme-cayman
