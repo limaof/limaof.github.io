@@ -1,3 +1,5 @@
+### Financie-nos no Padrim
+![Padrim](https://s3-sa-east-1.amazonaws.com/padrimbucketteste/padrim/Logotipo_colorido_horizontal.png)
 ![limao-01](https://user-images.githubusercontent.com/88214445/127747664-2624cdd1-5afd-48de-b135-af7addc53f4c.jpg)
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
 ![limao-03](https://user-images.githubusercontent.com/88214445/129053155-93836fae-37fe-4e37-b678-3f3a79ae89e9.jpg)
