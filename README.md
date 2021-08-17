@@ -3,6 +3,7 @@
 ![limao-03](https://user-images.githubusercontent.com/88214445/129053155-93836fae-37fe-4e37-b678-3f3a79ae89e9.jpg)
 ![limao-04](https://user-images.githubusercontent.com/88214445/128375565-ce869554-1648-4388-af64-ed664687fc00.jpg)
 ![limao-05](https://user-images.githubusercontent.com/88214445/129047744-ead59b73-435d-4dfb-95c2-efb91fb9c578.jpg)
+![auto004](https://user-images.githubusercontent.com/88214445/129810633-59bff1f3-c3ed-4b6f-88c5-869fa698070f.jpeg)
 <div style="text-align: right"><b>Continua...</b></div>
 
 <div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io"><b>Próximo</b></a></div>
