@@ -8,7 +8,7 @@
 ![limao-04](https://user-images.githubusercontent.com/88214445/128375565-ce869554-1648-4388-af64-ed664687fc00.jpg)
 
   
-<div align="center"><div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io/2"><b>Próximo</b></a></div></div>
+<div style="text-align: center"><div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io/2"><b>Próximo</b></a></div></div>
  
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/limaohq" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/limaohq', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Assine a nossa Newsletter</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">TinyLetter</a></p></form>
         
