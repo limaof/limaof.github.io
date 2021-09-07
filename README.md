@@ -1,4 +1,4 @@
-<div align="center"><b>Financie-nos no Padrim clicando abaixo</b>
+<div align="center"><b>Assine Limão no Padrim e receba adiantado no seu e-mail</b>
 <br>
 <a rel="license" href="http://padrim.com.br/limao"><img alt="Licença Creative Commons" style="border-width:0" src="https://s3-sa-east-1.amazonaws.com/padrimbucketteste/padrim/Logotipo_colorido_horizontal.png"  height="46" width="150"/></a></div>
 
