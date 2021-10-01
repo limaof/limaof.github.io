@@ -6,10 +6,19 @@
 ![limao-02](https://user-images.githubusercontent.com/88214445/127747666-d7d0abce-ecee-432a-82a4-53244037a3a2.jpg)
 ![limao-03](https://user-images.githubusercontent.com/88214445/129053155-93836fae-37fe-4e37-b678-3f3a79ae89e9.jpg)
 ![limao-04](https://user-images.githubusercontent.com/88214445/128375565-ce869554-1648-4388-af64-ed664687fc00.jpg)
+![limao-05](https://user-images.githubusercontent.com/88214445/129047744-ead59b73-435d-4dfb-95c2-efb91fb9c578.jpg)
+![limao-06](https://user-images.githubusercontent.com/88214445/129813237-74f2399f-7320-4112-b6bb-be7bf86ce131.jpg)
+![limao-07](https://user-images.githubusercontent.com/88214445/130510652-2a618376-465e-43df-b6ed-aa5c3afec59b.jpg)
+![limao-08](https://user-images.githubusercontent.com/88214445/131521230-b2c29086-4fc4-49c0-a90e-9c5510bc6231.jpg)
+![limao-10](https://user-images.githubusercontent.com/88214445/132369243-2ba90569-b415-42d6-95e5-2f066f0889b8.jpg)
+![limao-11](https://user-images.githubusercontent.com/88214445/133815966-37d48b32-955a-462b-b42e-48cd40c8af22.jpg)
+![Limao011](https://user-images.githubusercontent.com/88214445/134704806-c2022c45-98ef-4bb9-9a8b-b5ca7f88fd63.jpeg)
 
+<div id="pagnova"></div>
+
+![limao-14](https://user-images.githubusercontent.com/88214445/135655408-96d26a35-dc5c-4018-85ef-914d6a157506.jpg)
   
-<div style="text-align: center"><div style="text-align: left"><a href="https://limaof.github.io"><b>Anterior</b></a></div> <div style="text-align: right"><a href="https://limaof.github.io/2"><b>Próximo</b></a></div></div>
- 
+
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/limaohq" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/limaohq', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Assine a nossa Newsletter</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">TinyLetter</a></p></form>
         
 <div style="text-align: center"><p Align="center"> <b>Limão é uma webcomic feita no Krita.</b></p>  
