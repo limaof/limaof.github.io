@@ -1,4 +1,4 @@
-<IFRAME name=LOJA Sites src="https://felipe-limao.lojaintegrada.com.br/quadrinhos-azedos-v0" frameBorder=0 width=700 height=600 scrolling=auto></IFRAME>
+<IFRAME name=LOJA Sites src="https://felipe-limao.lojaintegrada.com.br/quadrinhos-azedos-v0" frameBorder=0 width=1000 height=800 scrolling=auto></IFRAME>
 
 
 <div align="center"><b>Assine Limão no Padrim e receba adiantado no seu e-mail</b>
