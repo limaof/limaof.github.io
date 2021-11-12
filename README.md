@@ -1,7 +1,7 @@
-<IFRAME name=LOJA Sites src="https://felipe-limao.lojaintegrada.com.br/quadrinhos-azedos-v0" frameBorder=0 width=700 height=450 scrolling=auto></IFRAME>
+<IFRAME name=LOJA Sites src="https://felipe-limao.lojaintegrada.com.br/quadrinhos-azedos-v0" frameBorder=0 width=responsive height=responsive scrolling=auto></IFRAME>
 
 
-<div align="center"><IFRAME name=LOJA Sites src="https://felipe-limao.lojaintegrada.com.br/quadrinhos-azedos-v0" frameBorder=0 width=700 height=450 scrolling=auto></IFRAME><b>Assine Limão no Padrim e receba adiantado no seu e-mail</b>
+<div align="center"><b>Assine Limão no Padrim e receba adiantado no seu e-mail</b>
 <br>
 <a rel="license" href="http://padrim.com.br/limao"><img alt="Licença Creative Commons" style="border-width:0" src="https://s3-sa-east-1.amazonaws.com/padrimbucketteste/padrim/Logotipo_colorido_horizontal.png"  height="46" width="150"/></a></div>
 
